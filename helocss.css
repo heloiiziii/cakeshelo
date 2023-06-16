@@ -1,0 +1,16 @@
+body {
+    background-image: url(Downloads/frame-food-ingredients-baking-gently-pink-pastel-table-cooking-flat-lay-with-copy-space-top-view-baking-concept-flat-lay.jpg);
+    background-position:absolute;
+    background-size: cover;
+
+
+}
+a{  
+    float: center;
+    color: rgb(238, 144, 238);
+    padding: 7px;
+    font-size: 41px;
+    text-decoration: none;
+    border: 2px solid rgb(127, 175, 216);
+    border-radius: 33px;
+}
